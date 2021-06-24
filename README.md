@@ -1,3 +1,3 @@
-# Simple-REST-Api-SpringBoot
+# REST-Api-SpringBoot
 
 CRUD Rest API with SpringBoot and PostgreSQL
